@@ -1,3 +1,50 @@
-.cuerpo{
-    background-color: rgb(128, 129, 49);
+/*img{
+    min-height: 100%;
+} para evitar la deformacion de la imagen */
+
+.cabecera-mate{
+    text-align: center;
+} /*sirve para centrar el texto al medio*/
+
+.contenedor-tipos-mates-clasicos{
+    display: flex;
+    background-color: #64B478;
+    border-radius: 15px 15px 15px 15px;
+    
+} /*sirve para avisar que el contenedor va a tener flex*/
+
+.contenedor-tipos-mates-frescos{
+    display: flex;
+    background-color: #75BD9F;
+    border-radius: 15px 15px 15px 15px;
+    
+} /*sirve para avisar que el contenedor va a tener flex*/
+
+.contenedor-tipos-mates-locos{
+    display: flex;
+    background-color: #DB9957;
+    border-radius: 15px 15px 15px 15px;
+    
+} /*sirve para avisar que el contenedor va a tener flex*/
+
+.tipo-mate{
+    margin: 25px;
+    width: 50%;  
+}/*si pongo solo un num me lo toma como general para los cuatro lados, los num van como un reloj 
+si pongo dos num me lo toma el primero arriba y abajo el segundo izq y der. (se separan con espacios)
+el width: 50% es para que tome la parte de la pagina para todos*/
+
+.tipo-mate-titulo{
+    display: flex;
+    
 }
+
+.tipo-mate-titulo>img{
+    margin-right: 10px;
+} /*se coloca para poner margen a la der*/
+
+.tipo-mate-texto{
+    margin-left: 20px;/*margin va primero por fuera de la caja*/
+    padding-left: 12.5px;/*padding va segundo por dentro de la caja*/
+} /*se coloca para poner el margen a la izq*/
+
