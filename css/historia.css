@@ -1,0 +1,28 @@
+body{
+    background-color: #bdcf76b2;
+}
+
+.texto-historia{
+    text-align: center;
+
+}
+
+.texto-1{
+    background-color: #DB9957;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.texto-2{
+    background-color: #64B478;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.texto-3{
+    background-color: #E2C636;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.texto-4{
+    background-color: #75BD9F;
+    border-radius: 15px 15px 15px 15px;
+}
