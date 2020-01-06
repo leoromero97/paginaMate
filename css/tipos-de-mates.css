@@ -13,7 +13,7 @@ body{
     width: 100%;
     height: 100px;
     overflow: hidden;
-    background: #bdcf76;
+    background:#7a8a3c;
   
 
 }
@@ -43,7 +43,7 @@ header .menu a {
 }
  
 header .menu a:hover {
-	background:#778167;
+	background:#464742;
 	border-radius:70px;
 }
 /*titulo animado
