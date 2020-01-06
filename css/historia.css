@@ -177,3 +177,96 @@ h1 span:nth-child(14){
     font-size: 20px;
     margin: 15px;
 }
+
+/*pie de pagina*/
+footer{
+    width: 100%;
+    background: #7a8a3c;
+ 
+    
+}
+
+.container-footer-all{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px;
+}
+
+.container-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.colum1{
+    max-width: 400px;
+
+}
+
+.colum1 h1{
+    font-size: 22px;
+}
+
+.colum1 p{
+    font-size: 14px;
+    color: #C7C7C7;
+    margin-top: 20px;
+}
+
+.colum2{
+    max-width: 400px;
+    
+}
+
+.colum2 h1{
+    font-size: 22px;
+}
+
+.row{
+    margin-top: 20px;
+    display: flex;
+}
+
+.row img{
+    width: 36px;
+    height: 36px;
+}
+
+.row label{
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+
+.colum3{
+    max-width: 400px;
+}
+
+.colum3 h1{
+    font-size: 22px;
+}
+
+.row2{
+    margin-top: 20px;
+    display: flex;
+}
+
+.row2 img{
+    width: 36px;
+    height: 36px;
+}
+
+.row2 label{
+    margin-top: 10px;
+    margin-left: 20px;
+    max-width: 140px;
+}
+
+
+.footer{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;  
+    padding: 20px;
+}
