@@ -147,6 +147,7 @@ h1 span:nth-child(14){
     display: flex;
     background-color: #75BD9F;
     border-radius: 15px 15px 15px 15px;
+    margin-top: 50px;
     
 } /*sirve para avisar que el contenedor va a tener flex*/
 
@@ -197,6 +198,7 @@ h2{
 footer{
     width: 100%;
     background: #7a8a3c;
+    margin-top: 100px;
  
     
 }
