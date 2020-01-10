@@ -335,3 +335,10 @@ footer{
     justify-content: space-between;  
     padding: 20px;
 }
+
+  /*media query para telefonos*/
+  @media only screen and (max-width:500px) {
+    .contenedor, #main-header, header .menu a, header .menu a:hover, .contenedor2, Body, .container, #contenedor4, footer {
+      width: 100%;
+    }
+  }
